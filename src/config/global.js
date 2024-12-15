@@ -128,65 +128,90 @@ export default {
   referencias: [
     {
       referencia:
-        'Cerezuela, B. & Ollé, C. (2018). Gestión de proyectos paso a paso: ( ed.). Editorial UOC.',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/116314?page=6',
+        'Cerezuela, B., & Ollé, C. (2018). <em>Gestión de proyectos paso a paso</em> (Ed.). Editorial UOC.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/116314',
     },
     {
       referencia:
-        'Córdoba Padilla, M. (2011). Formulación y evaluación de proyectos: ( ed.). Ecoe Ediciones.',
+        'Córdoba Padilla, M. (2011). <em>Formulación y evaluación de proyectos</em> (Ed.). Ecoe Ediciones. ',
       link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/69169',
     },
     {
       referencia:
-        'Torres Hernández, Z. (2014). Administración de proyectos: ( ed.). Grupo Editorial Patria.',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/39414?page=24',
+        'Malagón Barinas, J. (2019). <em>Modelos, metodologías y sistemas de gestión de proyectos</em> (1ª ed.). Editorial Universidad EAN. ',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/250971',
+    },
+    {
+      referencia:
+        'Rodríguez Aranday, F. (2018). <em>Formulación y evaluación de proyectos de inversión: una propuesta metodológica</em> (Ed.). Instituto Mexicano de Contadores Públicos. ',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/116949',
+    },
+    {
+      referencia:
+        'Bataller, A. (2016). <em>La gestión de proyectos</em> (Ed.). Editorial UOC. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/57720?page=10',
+    },
+    {
+      referencia:
+        'Torres Hernández, Z. (2014). <em>Administración de proyectos</em> (Ed.). Grupo Editorial Patria. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/39414?page=6',
     },
   ],
   glosario: [
     {
-      termino: 'PMBOK',
+      termino: 'Demanda',
       significado:
-        '(Project Management Body of Knowledge) es un conjunto de estándares, mejores prácticas, guías y terminología para la gestión de proyectos, desarrollado por el Project Management Institute (PMI). El PMBOK proporciona un marco general que ayuda a los gestores de proyectos a aplicar procesos y técnicas para planificar, ejecutar, monitorear y completar proyectos de manera eficaz. Está compuesto por cinco grupos de procesos (inicio, planificación, ejecución, monitoreo y control, y cierre) y diez áreas de conocimiento.',
+        'cantidad de bienes o servicios que los consumidores están dispuestos a adquirir en un mercado a distintos precios.',
     },
     {
-      termino: 'Scrum',
+      termino: 'Diagrama de <em>Gantt</em>',
       significado:
-        'es una metodología ágil de gestión de proyectos que se utiliza especialmente en el desarrollo de software, aunque también se puede aplicar a otros tipos de proyectos. Scrum se estructura en sprints (períodos cortos de trabajo de una o dos semanas) durante los cuales los equipos multifuncionales trabajan en el desarrollo de productos o funcionalidades. El equipo Scrum se organiza en roles específicos (Product Owner, Scrum Master y equipo de desarrollo) y emplea reuniones periódicas como las "Daily Scrums" para revisar el progreso y ajustar el trabajo.',
+        'herramienta visual que muestra la programación de actividades de un proyecto en una línea de tiempo, facilitando el seguimiento y control del mismo.',
     },
     {
-      termino: 'Kanban',
+      termino: 'Elementos corporativos',
       significado:
-        'es un sistema de gestión visual utilizado para controlar el flujo de trabajo, comúnmente aplicado en la gestión de proyectos y producción. Se basa en tarjetas o post-its que representan tareas o fases del trabajo y se mueven a través de columnas que representan los diferentes estados del flujo de trabajo (por ejemplo, "Por hacer", "En progreso", "Hecho"). La metodología Kanban busca mejorar la eficiencia, evitar cuellos de botella y asegurar un flujo continuo de tareas.',
+        'componentes que representan la identidad y cultura de una empresa, como misión, visión, valores, marca y estructura organizacional.',
     },
     {
-      termino: 'Método Delphi',
+      termino: 'Estructura organizacional',
       significado:
-        'es una técnica de previsión y toma de decisiones en la que se busca llegar a un consenso mediante la consulta a un panel de expertos. A través de rondas sucesivas de encuestas o cuestionarios, los expertos proporcionan su opinión de forma anónima. Después de cada ronda, se comparten los resultados con el grupo para que ajusten o refinen sus respuestas en base a las opiniones de los demás, hasta alcanzar un acuerdo o consenso razonable.',
+        'distribución jerárquica de roles y responsabilidades dentro de una organización, establecida para alcanzar objetivos comunes.',
     },
     {
-      termino: 'Metodología PRINCE2',
+      termino: 'Estudio de factibilidad',
       significado:
-        '(Projects IN Controlled Environments) es una metodología estructurada para la gestión de proyectos. Se basa en principios bien definidos y establece un enfoque claro para planificar, gestionar y controlar proyectos de manera eficiente. PRINCE2 divide los proyectos en etapas gestionables y proporciona un marco para asignar roles, tomar decisiones y gestionar riesgos. Es una de las metodologías de gestión de proyectos más utilizadas en el Reino Unido y Europa.',
+        'análisis integral que determina si un proyecto es viable técnica, económica, y legalmente antes de su ejecución.',
+    },
+    {
+      termino: 'Estudio de mercado',
+      significado:
+        'investigación que analiza las características de un mercado específico para entender la demanda, la oferta y el comportamiento del consumidor.',
+    },
+    {
+      termino: 'Marco lógico',
+      significado:
+        'método de planificación que organiza objetivos, actividades y resultados de un proyecto en una matriz, facilitando su evaluación y seguimiento.',
     },
     {
       termino: 'Metodologías ágiles',
       significado:
-        'son un conjunto de enfoques para la gestión de proyectos que priorizan la flexibilidad, la colaboración y la entrega continua de productos o servicios de valor. Estas metodologías se centran en el desarrollo incremental e iterativo, con ciclos de trabajo cortos llamados sprints o iteraciones. Los equipos ágiles trabajan de manera colaborativa, revisan constantemente sus avances y hacen ajustes rápidos según las necesidades o los comentarios de los clientes. Ejemplos de metodologías ágiles son Scrum, Kanban, y Extreme Programming (XP).',
+        'conjunto de métodos de gestión de proyectos que promueven flexibilidad, colaboración y adaptabilidad en el desarrollo de productos o servicios.',
     },
     {
-      termino: 'Microsoft Project',
+      termino: 'Oferta',
       significado:
-        'es una herramienta de software diseñada para la gestión de proyectos. Permite planificar, programar, asignar recursos, realizar un seguimiento del progreso, gestionar presupuestos y analizar la carga de trabajo. Es muy útil para la creación de diagramas de Gantt, calendarios de tareas, y para la gestión de múltiples proyectos en una sola vista. Es ampliamente utilizada por gestores de proyectos en diversos sectores.',
+        'cantidad de bienes o servicios que los productores están dispuestos a vender en un mercado a diferentes precios.',
     },
     {
-      termino: 'Análisis de impacto cruzado',
+      termino: 'Organigramas',
       significado:
-        'es una técnica que se utiliza para estudiar las interrelaciones entre diversos eventos o factores dentro de un proyecto. Se evalúa cómo un cambio en un factor puede influir en otros, permitiendo identificar dependencias y riesgos asociados a estos impactos. Esta herramienta es común en la planificación de proyectos, análisis de escenarios y toma de decisiones en entornos complejos.',
+        'diagramas que representan la estructura jerárquica y los departamentos o áreas de una organización, mostrando relaciones y niveles de autoridad.',
     },
     {
-      termino: 'Brainstorming',
+      termino: 'USAID',
       significado:
-        'es una técnica creativa en la que un grupo de personas genera una gran cantidad de ideas o soluciones sobre un tema o problema específico en un corto período de tiempo, sin filtrar o criticar inicialmente las propuestas. El objetivo es fomentar el pensamiento libre y explorar tantas ideas como sea posible, para luego evaluar y seleccionar las más viables.',
+        'agencia de los Estados Unidos para el Desarrollo Internacional, que brinda asistencia para promover el desarrollo económico y social en países en desarrollo.',
     },
   ],
   complementario: [

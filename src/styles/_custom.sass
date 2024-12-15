@@ -188,3 +188,62 @@ $custom-card-img-height: 322px
 
   span
     font-size: 0.85em
+
+.cont_1_1,.cont_1_1 *
+  position: relative
+.cont_1_1:before
+  content: ''
+  position: absolute
+  width: 115%
+  height: 80%
+  top: 0
+  left: -8%
+  background-image: url(../assets/curso/tema1/4.png)
+  background-size: 100% 100%
+
+.cont_1_2,.cont_1_2 *
+  position: relative
+.cont_1_2:before
+  content: ''
+  position: absolute
+  width: 115%
+  height: 100%
+  top: 0
+  left: -8%
+  background-image: url(../assets/curso/tema1/9.png)
+  background-size: 100% 100%
+
+// Variables
+$custom-card-border-radius: 0px
+$custom-card-shadow: 0 4px 8px rgba(0,0,0,0.1)
+$custom-card-text-bg: #FFF
+$custom-card-text-padding: 15px
+$custom-card-text-font-size: 14px
+$custom-card-img-height: 322px
+.custom-image-card
+  border-radius: $custom-card-border-radius
+  overflow: hidden
+  box-shadow: $custom-card-shadow
+  height: 100%
+  background-color: $custom-card-text-bg
+  transition: transform 0.3s ease 
+  cursor: pointer
+  &:hover
+    transform: scale(1.01)
+  &__image
+    height: $custom-card-img-height
+    object-fit: cover
+
+.custom-image-card-2
+  border-radius: $custom-card-border-radius
+  overflow: hidden
+  box-shadow: $custom-card-shadow
+  height: 100%
+  background-color: $custom-card-text-bg
+  transition: transform 0.3s ease 
+  cursor: pointer
+  &:hover
+    transform: scale(1.01)
+  &__image
+    height: 224px
+    object-fit: cove
