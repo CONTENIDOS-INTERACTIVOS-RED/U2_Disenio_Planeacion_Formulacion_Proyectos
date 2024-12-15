@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1122" height="581.94" viewBox="0 0 1122 581.94">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="589.767" height="577.298" viewBox="0 0 589.767 577.298">
   <defs>
     <linearGradient id="linear-gradient" x1="0.28" y1="0.217" x2="0.942" y2="1.255" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#30a9b1"/>
       <stop offset="0.582" stop-color="#1586b0"/>
       <stop offset="1" stop-color="#006baf"/>
     </linearGradient>
-    <filter id="Trazado_986585" x="484.945" y="4.733" width="348.201" height="250.371" filterUnits="userSpaceOnUse">
+    <filter id="Trazado_986585" x="230.333" y="4.733" width="348.201" height="250.371" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feFlood flood-opacity="0.161"/>
@@ -17,7 +17,7 @@
       <stop offset="0.457" stop-color="#f74a10"/>
       <stop offset="1" stop-color="#ed1c25"/>
     </linearGradient>
-    <filter id="Trazado_986586" x="671.616" y="156.639" width="165.281" height="388.063" filterUnits="userSpaceOnUse">
+    <filter id="Trazado_986586" x="417.004" y="156.639" width="165.281" height="388.063" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-2"/>
       <feFlood flood-opacity="0.161"/>
@@ -29,7 +29,7 @@
       <stop offset="0.437" stop-color="#c50360"/>
       <stop offset="1" stop-color="#93033e"/>
     </linearGradient>
-    <filter id="Trazado_986587" x="265.737" y="167.43" width="239.097" height="368.58" filterUnits="userSpaceOnUse">
+    <filter id="Trazado_986587" x="11.126" y="167.43" width="239.097" height="368.58" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-3"/>
       <feFlood flood-opacity="0.161"/>
@@ -41,7 +41,7 @@
       <stop offset="0.497" stop-color="#2780c6"/>
       <stop offset="1" stop-color="#006baf"/>
     </linearGradient>
-    <filter id="Trazado_986588" x="274.626" y="4.999" width="311.993" height="300.306" filterUnits="userSpaceOnUse">
+    <filter id="Trazado_986588" x="20.015" y="4.999" width="311.993" height="300.306" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-4"/>
       <feFlood flood-opacity="0.161"/>
@@ -53,72 +53,37 @@
       <stop offset="0.542" stop-color="#bad527"/>
       <stop offset="1" stop-color="#9aca36"/>
     </linearGradient>
-    <filter id="Trazado_986611" x="352.255" y="384.462" width="394.873" height="192.836" filterUnits="userSpaceOnUse">
+    <filter id="Trazado_986611" x="97.644" y="384.462" width="394.873" height="192.836" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-5"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-5"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Procesos_PMI" x="433.567" y="254.619" width="233" height="64" filterUnits="userSpaceOnUse">
+    <filter id="Procesos_PMI" x="178.955" y="254.619" width="233" height="64" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur-6"/>
       <feFlood flood-opacity="0.161"/>
       <feComposite operator="in" in2="blur-6"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Rectángulo_408084" x="712" y="403.94" width="343" height="178" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-7"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-7"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-    <filter id="Rectángulo_408084-2" x="779" y="50.94" width="343" height="207" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-8"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-8"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-    <filter id="Rectángulo_408074" x="396" y="48.94" width="343" height="158" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-9"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-9"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-    <filter id="Rectángulo_408084-3" x="11" y="38.94" width="343" height="178" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-10"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-10"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-    <filter id="Rectángulo_408084-4" x="0" y="336.94" width="343" height="230" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-11"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-11"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
   </defs>
-  <g id="Grupo_1151697" data-name="Grupo 1151697" transform="translate(-250 -6263.06)">
+  <g id="Grupo_1151696" data-name="Grupo 1151696" transform="translate(-504.612 -6263.06)">
     <g id="Grupo_1151682" data-name="Grupo 1151682" transform="translate(0 -38)">
       <g id="Grupo_1151659" data-name="Grupo 1151659" transform="translate(27.44 46)">
         <g id="Grupo_1151652" data-name="Grupo 1151652" transform="translate(2171 112.753)">
           <g id="Grupo_1151651" data-name="Grupo 1151651" transform="translate(0 -159.64)">
-            <g transform="matrix(1, 0, 0, 1, -1948.44, 6301.95)" filter="url(#Trazado_986585)">
-              <path id="Trazado_986585-2" data-name="Trazado 986585" d="M292.669,92.244a69.016,69.016,0,1,0,2.167,135.874c35.383-1.883,156.091-12.809,248,95.612C542.834,323.727,516.044,117.008,292.669,92.244Z" transform="translate(281.31 -80.62)" fill="url(#linear-gradient)"/>
+            <g transform="matrix(1, 0, 0, 1, -1693.83, 6301.95)" filter="url(#Trazado_986585)">
+              <path id="Trazado_986585-2" data-name="Trazado 986585" d="M292.669,92.244a69.016,69.016,0,1,0,2.167,135.874c35.383-1.883,156.091-12.809,248,95.612C542.834,323.727,516.044,117.008,292.669,92.244Z" transform="translate(26.7 -80.62)" fill="url(#linear-gradient)"/>
             </g>
-            <g transform="matrix(1, 0, 0, 1, -1948.44, 6301.95)" filter="url(#Trazado_986586)">
-              <path id="Trazado_986586-2" data-name="Trazado 986586" d="M460.361,237.1A69.017,69.017,0,1,0,332.5,283.123c13.232,32.869,61.528,144.583-11.319,266.63C321.182,549.75,509.208,456.475,460.361,237.1Z" transform="translate(359.44 -17.05)" fill="url(#linear-gradient-2)"/>
+            <g transform="matrix(1, 0, 0, 1, -1693.83, 6301.95)" filter="url(#Trazado_986586)">
+              <path id="Trazado_986586-2" data-name="Trazado 986586" d="M460.361,237.1A69.017,69.017,0,1,0,332.5,283.123c13.232,32.869,61.528,144.583-11.319,266.63C321.182,549.75,509.208,456.475,460.361,237.1Z" transform="translate(104.82 -17.05)" fill="url(#linear-gradient-2)"/>
             </g>
-            <g transform="matrix(1, 0, 0, 1, -1948.44, 6301.95)" filter="url(#Trazado_986587)">
-              <path id="Trazado_986587-2" data-name="Trazado 986587" d="M190.571,518.365a69.017,69.017,0,1,0,72.908-114.677C232.89,385.8,126.75,327.061,109.606,185.964,109.6,185.967,17.62,374.848,190.571,518.365Z" transform="translate(189.57 -12.53)" fill="url(#linear-gradient-3)"/>
+            <g transform="matrix(1, 0, 0, 1, -1693.83, 6301.95)" filter="url(#Trazado_986587)">
+              <path id="Trazado_986587-2" data-name="Trazado 986587" d="M190.571,518.365a69.017,69.017,0,1,0,72.908-114.677C232.89,385.8,126.75,327.061,109.606,185.964,109.6,185.967,17.62,374.848,190.571,518.365Z" transform="translate(-65.04 -12.53)" fill="url(#linear-gradient-3)"/>
             </g>
-            <g transform="matrix(1, 0, 0, 1, -1948.44, 6301.95)" filter="url(#Trazado_986588)">
-              <path id="Trazado_986588-2" data-name="Trazado 986588" d="M96.158,277.079a69.016,69.016,0,1,0,132.1,31.879c7.023-34.73,28.116-154.595,156.072-216.472C384.327,92.483,175.989,66.994,96.158,277.079Z" transform="translate(193.29 -80.51)" fill="url(#linear-gradient-4)"/>
+            <g transform="matrix(1, 0, 0, 1, -1693.83, 6301.95)" filter="url(#Trazado_986588)">
+              <path id="Trazado_986588-2" data-name="Trazado 986588" d="M96.158,277.079a69.016,69.016,0,1,0,132.1,31.879c7.023-34.73,28.116-154.595,156.072-216.472C384.327,92.483,175.989,66.994,96.158,277.079Z" transform="translate(-61.32 -80.51)" fill="url(#linear-gradient-4)"/>
             </g>
             <rect id="Rectángulo_408063" data-name="Rectángulo 408063" width="71.028" height="66.426" transform="translate(-1215.196 6625.985)" fill="none"/>
             <rect id="Rectángulo_408064" data-name="Rectángulo 408064" width="71.028" height="66.426" transform="translate(-1643.468 6638.796)" fill="none"/>
@@ -147,8 +112,8 @@
               </g>
             </g>
             <g id="Grupo_1151647" data-name="Grupo 1151647" transform="translate(-1587.185 6692.409)">
-              <g transform="matrix(1, 0, 0, 1, -361.26, -390.46)" filter="url(#Trazado_986611)">
-                <path id="Trazado_986611-2" data-name="Trazado 986611" d="M476.336,441.8A69.016,69.016,0,1,0,391.423,335.7c-26.821,23.156-116.893,105-255.947,75.568C135.476,411.272,284.576,559,476.336,441.8Z" transform="translate(225.78 78.3)" fill="url(#linear-gradient-5)"/>
+              <g transform="matrix(1, 0, 0, 1, -106.64, -390.46)" filter="url(#Trazado_986611)">
+                <path id="Trazado_986611-2" data-name="Trazado 986611" d="M476.336,441.8A69.016,69.016,0,1,0,391.423,335.7c-26.821,23.156-116.893,105-255.947,75.568C135.476,411.272,284.576,559,476.336,441.8Z" transform="translate(-28.83 78.3)" fill="url(#linear-gradient-5)"/>
               </g>
               <g id="Grupo_1151646" data-name="Grupo 1151646" transform="translate(239.317 1.426)">
                 <circle id="Elipse_11727" data-name="Elipse 11727" cx="68.493" cy="68.493" r="68.493" fill="#dde118" stroke="#fff" stroke-miterlimit="10" stroke-width="3.378"/>
@@ -172,8 +137,8 @@
             <rect id="Rectángulo_408071" data-name="Rectángulo 408071" width="71.028" height="66.426" transform="translate(-1432.851 6788.386)" fill="none"/>
           </g>
           <text id="Inicio" transform="translate(-1283.279 6268.746)" fill="#fff" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Inicio</tspan></text>
-          <g transform="matrix(1, 0, 0, 1, -1948.44, 6142.31)" filter="url(#Procesos_PMI)">
-            <text id="Procesos_PMI-2" data-name="Procesos PMI" transform="translate(442.57 297.62)" fill="#212429" font-size="34" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Procesos PMI</tspan></text>
+          <g transform="matrix(1, 0, 0, 1, -1693.83, 6142.31)" filter="url(#Procesos_PMI)">
+            <text id="Procesos_PMI-2" data-name="Procesos PMI" transform="translate(187.95 297.62)" fill="#212429" font-size="34" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Procesos PMI</tspan></text>
           </g>
           <text id="Planificación" transform="translate(-1233.279 6477.746)" fill="#fff" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Planificación</tspan></text>
           <text id="Ejecución" transform="translate(-1434.752 6661.746)" fill="#fff" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Ejecución</tspan></text>
@@ -187,41 +152,6 @@
         <path id="Trazado_986615" data-name="Trazado 986615" d="M29.484,16.822,18.469,5.807a2.753,2.753,0,0,0-4.7,1.947v8.261H2.754a2.754,2.754,0,1,0,0,5.507H13.769v8.261a2.753,2.753,0,0,0,4.7,1.947L29.484,20.716a2.751,2.751,0,0,0,0-3.894Z" transform="translate(0 8.768)" fill="#fff"/>
       </g>
       <path id="cierre-2" data-name="cierre" d="M70.132,46.764H90.143a1.279,1.279,0,0,1,0,2.559H70.132a1.279,1.279,0,0,1,0-2.559Zm1.344,57.183L70,106.042a1.678,1.678,0,0,0,1.321,2.64,1.492,1.492,0,0,0,1.4-.728l1.473-2.095a1.661,1.661,0,0,0-2.717-1.912Zm-3.111-5.8a1.54,1.54,0,0,1,2.3-.382,1.559,1.559,0,0,1,.416,2.3L66.975,105.9a1.662,1.662,0,0,1-2.718-1.911Zm-5.357-2.608L59.2,100.955a1.662,1.662,0,0,0,2.718,1.913L66.9,95.786a1.662,1.662,0,0,0-2.718-1.913Zm-2.092-1.473-2.943,4.182a1.662,1.662,0,0,1-2.715-1.915L58.2,92.154a1.662,1.662,0,0,1,2.72,1.91Zm29.545-23.42,9.93,17.2a1.268,1.268,0,0,0,1.722.461l5.659-3.266a1.266,1.266,0,0,0,.462-1.725l-9.93-17.2a1.264,1.264,0,0,0-1.723-.463L90.924,68.92A1.27,1.27,0,0,0,90.461,70.643ZM65.6,77.957c4.646-4.577,5.749-5.663,10.253-4.673a26.289,26.289,0,0,0,13.094-.144l7.792,13.493-3.712,1.9L77.807,79.718c-2.66-1.535-5.169-.343-7.384.708-.539.257-1.026.395-1.288.887-.817,1.538-1.832,4.326-3,4.955-1.185.639-1.97.662-2.186.526-.092-.058-.178-.313-.157-.746l.315-6.628C64.645,78.9,65.148,78.4,65.6,77.957Zm-7.184-4.774,6.154,2.2-2.607,2.555a1.276,1.276,0,0,0-.387.859l-.34,7.131a3.147,3.147,0,0,0,1.35,3.032c1.175.74,2.868.584,4.765-.44,1.611-.869,2.543-2.859,3.365-4.614.166-.357.326-.7.484-1.019.107-.05.213-.1.319-.151,2.175-1.031,3.582-1.625,5-.8L92.347,91.09a1.663,1.663,0,0,1-1.671,2.874l-5.17-3.011a1.28,1.28,0,1,0-1.288,2.212l5.171,3.009v0l1.353.786a1.489,1.489,0,0,1,.844,1.331,1.676,1.676,0,0,1-2.517,1.542l-6.9-4.016a1.279,1.279,0,0,0-1.288,2.21l5.223,3.042h0a1.662,1.662,0,0,1-1.674,2.871l-5.6-3.257A1.28,1.28,0,0,0,77.55,102.9l4.262,2.48a1.662,1.662,0,0,1-1.675,2.871l-3.305-1.924a4.088,4.088,0,0,0-1.584-4.854,4.543,4.543,0,0,0-1.623-.72,4.078,4.078,0,0,0-1.488-5.079,4.451,4.451,0,0,0-2.327-.817A4.239,4.239,0,0,0,67.953,91.4a4.137,4.137,0,0,0-4.625-.21,4.5,4.5,0,0,0-1.36-1.509A4.076,4.076,0,0,0,56.1,90.683l-1.3,1.842-4.39-5.481ZM56.468,68.92,50.81,65.653a1.261,1.261,0,0,0-1.722.463l-9.928,17.2a1.263,1.263,0,0,0,.46,1.722L45.278,88.3A1.268,1.268,0,0,0,47,87.842l9.93-17.2a1.269,1.269,0,0,0-.462-1.724Zm3.646-18.148a1.274,1.274,0,0,1-1.808,0l-1.961-1.961A1.279,1.279,0,0,1,58.154,47l1.057,1.055,3.017-3.016a1.279,1.279,0,0,1,1.808,1.808ZM50.627,39.411V62.953a3.818,3.818,0,0,1,1.462.484L57.748,66.7a3.83,3.83,0,0,1,1.812,4.17l7.094,2.533c2.993-2.673,5.2-3.624,9.751-2.621a23.459,23.459,0,0,0,11.411.011A3.826,3.826,0,0,1,89.644,66.7L95.3,63.437a3.815,3.815,0,0,1,1.464-.484V39.411ZM64.036,58.825a1.276,1.276,0,0,1,0,1.808l-3.921,3.924a1.28,1.28,0,0,1-1.808,0L56.346,62.6a1.28,1.28,0,0,1,1.808-1.811l1.057,1.058,3.017-3.018a1.28,1.28,0,0,1,1.808,0Zm6.1,1.587H90.143a1.279,1.279,0,1,1,0,2.559H70.132a1.279,1.279,0,1,1,0-2.559Z" transform="translate(518.01 6452.589)" fill="#fff" fill-rule="evenodd"/>
-    </g>
-    <g id="Grupo_1151688" data-name="Grupo 1151688" transform="translate(21 219)">
-      <g transform="matrix(1, 0, 0, 1, 229, 6044.06)" filter="url(#Rectángulo_408084)">
-        <rect id="Rectángulo_408084-5" data-name="Rectángulo 408084" width="325" height="160" rx="15" transform="translate(721 409.94)" fill="#fff"/>
-      </g>
-      <text id="Implementación_del_plan_desarrollo_de_entregables_y_administración_de_los_recursos." data-name="Implementación del plan, desarrollo de entregables y administración de los recursos." transform="translate(976 6512)" fill="#212429" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="0" y="19">Implementación del plan, </tspan><tspan x="0" y="46">desarrollo de entregables y </tspan><tspan x="0" y="73">administración de los recursos.</tspan></text>
-      <text id="Ejecución-2" data-name="Ejecución" transform="translate(976 6478)" fill="#212429" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0em"><tspan x="0" y="19">Ejecución</tspan></text>
-    </g>
-    <g id="Grupo_1151689" data-name="Grupo 1151689" transform="translate(88 -134)">
-      <g transform="matrix(1, 0, 0, 1, 162, 6397.06)" filter="url(#Rectángulo_408084-2)">
-        <rect id="Rectángulo_408084-6" data-name="Rectángulo 408084" width="325" height="189" rx="15" transform="translate(788 56.94)" fill="#fff"/>
-      </g>
-      <text id="Diseño_de_un_plan_detallado_que_incluye_los_objetivos_alcance_cronograma_y_recursos_necesarios." data-name="Diseño de un plan detallado que incluye los objetivos, alcance, cronograma y recursos necesarios." transform="translate(976 6512)" fill="#212429" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="0" y="19">Diseño de un plan detallado que </tspan><tspan x="0" y="46">incluye los objetivos, alcance, </tspan><tspan x="0" y="73">cronograma y recursos </tspan><tspan x="0" y="100">necesarios.</tspan></text>
-      <text id="Planificación-2" data-name="Planificación" transform="translate(976 6478)" fill="#212429" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0em"><tspan x="0" y="19">Planificación</tspan></text>
-    </g>
-    <g id="Grupo_1151690" data-name="Grupo 1151690" transform="translate(-295 51)">
-      <g transform="matrix(1, 0, 0, 1, 545, 6212.06)" filter="url(#Rectángulo_408074)">
-        <rect id="Rectángulo_408074-2" data-name="Rectángulo 408074" width="325" height="140" rx="15" transform="translate(405 54.94)" fill="#fff"/>
-      </g>
-      <text id="Definición_del_proyecto_y_aprobación_inicial." data-name="Definición del proyecto y aprobación inicial." transform="translate(976 6325)" fill="#212429" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="0" y="19">Definición del proyecto y </tspan><tspan x="0" y="46">aprobación inicial.</tspan></text>
-      <text id="Inicio-2" data-name="Inicio" transform="translate(976 6291)" fill="#212429" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0em"><tspan x="0" y="19">Inicio</tspan></text>
-    </g>
-    <g id="Grupo_1151691" data-name="Grupo 1151691" transform="translate(-680 -146)">
-      <g transform="matrix(1, 0, 0, 1, 930, 6409.06)" filter="url(#Rectángulo_408084-3)">
-        <rect id="Rectángulo_408084-7" data-name="Rectángulo 408084" width="325" height="160" rx="15" transform="translate(20 44.94)" fill="#fff"/>
-      </g>
-      <text id="Finalización_formal_del_proyecto_evaluación_de_resultados_y_transferencia_de_entregables." data-name="Finalización formal del proyecto, evaluación de resultados y transferencia de entregables." transform="translate(976 6512)" fill="#212429" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="0" y="19">Finalización formal del proyecto, </tspan><tspan x="0" y="46">evaluación de resultados y </tspan><tspan x="0" y="73">transferencia de entregables.</tspan></text>
-      <text id="Cierre-3" data-name="Cierre" transform="translate(976 6478)" fill="#212429" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0em"><tspan x="0" y="19">Cierre</tspan></text>
-    </g>
-    <g id="Grupo_1151692" data-name="Grupo 1151692" transform="translate(-691 152)">
-      <g transform="matrix(1, 0, 0, 1, 941, 6111.06)" filter="url(#Rectángulo_408084-4)">
-        <rect id="Rectángulo_408084-8" data-name="Rectángulo 408084" width="325" height="212" rx="15" transform="translate(9 342.94)" fill="#fff"/>
-      </g>
-      <text id="Supervisión_continua_del_avance_del_proyecto_para_asegurar_que_se_mantenga_dentro_del_alcance_el_presupuesto_y_el_tiempo_establecidos." data-name="Supervisión continua del avance del proyecto para asegurar que se mantenga dentro del alcance, el presupuesto y el tiempo establecidos." transform="translate(976 6512)" fill="#212429" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="0" y="19">Supervisión continua del avance </tspan><tspan x="0" y="46">del proyecto para asegurar que se </tspan><tspan x="0" y="73">mantenga dentro del alcance, el </tspan><tspan x="0" y="100">presupuesto y el tiempo </tspan><tspan x="0" y="127">establecidos.</tspan></text>
-      <text id="Monitoreo_y_Control-2" data-name="Monitoreo y Control" transform="translate(976 6478)" fill="#212429" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0em"><tspan x="0" y="19">Monitoreo y Control</tspan></text>
     </g>
   </g>
 </svg>

@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="907.91" height="853.815" viewBox="0 0 907.91 853.815">
+  <defs>
+    <filter id="Rectángulo_407809" x="295.934" y="0" width="243.066" height="92.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1151695" data-name="Grupo 1151695" transform="translate(-346.045 -672)">
+    <g transform="matrix(1, 0, 0, 1, 346.04, 672)" filter="url(#Rectángulo_407809)">
+      <g id="Rectángulo_407809-2" data-name="Rectángulo 407809" transform="translate(304.93 6)" fill="#82e0e0" stroke="#707070" stroke-width="1">
+        <rect width="225.066" height="74.5" rx="15" stroke="none"/>
+        <rect x="0.5" y="0.5" width="224.066" height="73.5" rx="14.5" fill="none"/>
+      </g>
+    </g>
+    <text id="Presentación_del_producto" data-name="Presentación del
+ producto" transform="translate(763.979 708.75)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-69.864" y="0">Presentación del</tspan><tspan x="-41.418" y="27" xml:space="preserve"> producto</tspan></text>
+    <path id="Trazado_985549" data-name="Trazado 985549" d="M4815.582,1165.25h-42.4v286.385h56.267" transform="translate(-3862.514 46)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <path id="Trazado_985550" data-name="Trazado 985550" d="M4713.3,1323.231h53.862" transform="translate(-3856.021 38.769)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <path id="Trazado_985551" data-name="Trazado 985551" d="M4713.3,1323.231h53.862" transform="translate(-3802.64 -17.981)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Trazado_985552" data-name="Trazado 985552" d="M4713.3,1417.231h53.862" transform="translate(-3802.64 -17.981)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Rectángulo_407809-3" data-name="Rectángulo 407809" transform="translate(938.979 1272.685)" fill="#e5f8f8" stroke="#477a7a" stroke-width="1">
+      <rect width="314.977" height="65.13" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="313.977" height="64.13" rx="9.5" fill="none"/>
+    </g>
+    <text id="Análisis_de_los_precios" data-name="Análisis de los precios" transform="translate(1096.391 1312.685)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-86.904" y="0">Análisis de los precios</tspan></text>
+    <g id="Rectángulo_407809-4" data-name="Rectángulo 407809" transform="translate(938.979 1366.685)" fill="#e5f8f8" stroke="#477a7a" stroke-width="1">
+      <rect width="314.977" height="65.13" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="313.977" height="64.13" rx="9.5" fill="none"/>
+    </g>
+    <text id="Análisis_de_distribución" data-name="Análisis de distribución" transform="translate(1096.391 1406.685)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-91.357" y="0">Análisis de distribución</tspan></text>
+    <path id="Trazado_985553" data-name="Trazado 985553" d="M4815.582,1165.25h-42.4v94h56.267" transform="translate(-3862.514 -142)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <g id="Rectángulo_407809-5" data-name="Rectángulo 407809" transform="translate(938.979 990.685)" fill="#e5f8f8" stroke="#477a7a" stroke-width="1">
+      <rect width="314.977" height="65.13" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="313.977" height="64.13" rx="9.5" fill="none"/>
+    </g>
+    <text id="Comportamiento_de_la_oferta" data-name="Comportamiento de la oferta" transform="translate(1096.391 1030.685)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-115.714" y="0">Comportamiento de la oferta</tspan></text>
+    <g id="Rectángulo_407809-6" data-name="Rectángulo 407809" transform="translate(938.979 1084.685)" fill="#e5f8f8" stroke="#477a7a" stroke-width="1">
+      <rect width="314.977" height="65.13" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="313.977" height="64.13" rx="9.5" fill="none"/>
+    </g>
+    <text id="Estructuración_del_sector" data-name="Estructuración del sector" transform="translate(1096.391 1124.685)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-97.629" y="0">Estructuración del sector</tspan></text>
+    <path id="Trazado_985554" data-name="Trazado 985554" d="M4713.3,1323.231h53.862" transform="translate(-3856.021 -243.231)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <rect id="Rectángulo_407809-7" data-name="Rectángulo 407809" width="225.066" height="74.5" rx="10" transform="translate(651.088 1042.75)" fill="#82e0e0"/>
+    <text id="Oferta_del_producto" data-name="Oferta del producto" transform="translate(680.121 1086.75)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Oferta del producto</tspan></text>
+    <path id="Trazado_985555" data-name="Trazado 985555" d="M4815.582,1165.25h-42.4v187.065h56.267" transform="translate(-3862.514 -423.065)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <g id="Rectángulo_407809-8" data-name="Rectángulo 407809" transform="translate(938.979 802.685)" fill="#e5f8f8" stroke="#477a7a" stroke-width="1">
+      <rect width="314.977" height="65.13" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="313.977" height="64.13" rx="9.5" fill="none"/>
+    </g>
+    <text id="Segmentación_del_mercado" data-name="Segmentación del mercado" transform="translate(1096.391 842.685)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-108.706" y="0">Segmentación del mercado</tspan></text>
+    <g id="Rectángulo_407809-9" data-name="Rectángulo 407809" transform="translate(938.979 896.685)" fill="#e5f8f8" stroke="#477a7a" stroke-width="1">
+      <rect width="314.977" height="65.13" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="313.977" height="64.13" rx="9.5" fill="none"/>
+    </g>
+    <text id="Tamaño_del_mercado" data-name="Tamaño del mercado" transform="translate(1096.391 936.685)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-83.01" y="0">Tamaño del mercado</tspan></text>
+    <path id="Trazado_985556" data-name="Trazado 985556" d="M4713.3,1323.231h53.862" transform="translate(-3856.021 -440.981)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <rect id="Rectángulo_407809-10" data-name="Rectángulo 407809" width="225.066" height="74.5" rx="10" transform="translate(651.088 845)" fill="#82e0e0"/>
+    <text id="Demanda_del_producto" data-name="Demanda del 
+producto" transform="translate(763.621 875.75)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-58.417" y="0">Demanda del </tspan><tspan x="-38.936" y="27">producto</tspan></text>
+    <path id="Trazado_985557" data-name="Trazado 985557" d="M4815.582,1165.25h-42.4v651.435h56.267" transform="translate(-4160.333 -450)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <path id="Trazado_985558" data-name="Trazado 985558" d="M4815.582,1165.25h-42.4v286.385h56.267" transform="translate(-3862.514 46)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <path id="Trazado_985559" data-name="Trazado 985559" d="M4713.3,1393.046H4851.59" transform="translate(-4200.502 -310.361)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <path id="Trazado_985560" data-name="Trazado 985560" d="M4713.3,1393.046h38.242" transform="translate(-4100.458 -510.796)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <rect id="Rectángulo_407809-11" data-name="Rectángulo 407809" width="225.066" height="74.5" rx="10" transform="translate(650.979 678)" fill="#82e0e0"/>
+    <text id="Presentación_del_producto-2" data-name="Presentación del
+ producto" transform="translate(763.979 708.75)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-69.864" y="0">Presentación del</tspan><tspan x="-41.418" y="27" xml:space="preserve"> producto</tspan></text>
+    <rect id="Rectángulo_407809-12" data-name="Rectángulo 407809" width="225.066" height="74.5" rx="10" transform="translate(650.979 1324.75)" fill="#82e0e0"/>
+    <text id="Comercialización" transform="translate(691.979 1368.75)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Comercialización</tspan></text>
+    <rect id="Rectángulo_407809-13" data-name="Rectángulo 407809" width="225.066" height="74.5" rx="10" transform="translate(346.045 1045.435)" fill="#fdc621"/>
+    <text id="Estudio_de_mercado" data-name="Estudio de mercado" transform="translate(375.078 1089.435)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Estudio de mercado</tspan></text>
+    <g id="Rectángulo_407809-14" data-name="Rectángulo 407809" transform="translate(938.979 1460.685)" fill="#e5f8f8" stroke="#477a7a" stroke-width="1">
+      <rect width="314.977" height="65.13" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="313.977" height="64.13" rx="9.5" fill="none"/>
+    </g>
+    <text id="Análisis_de_proveedores" data-name="Análisis  de proveedores" transform="translate(1096.391 1500.685)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-96.722" y="0" xml:space="preserve">Análisis  de proveedores</tspan></text>
+    <g id="Rectángulo_407809-15" data-name="Rectángulo 407809" transform="translate(938.979 1178.685)" fill="#e5f8f8" stroke="#477a7a" stroke-width="1">
+      <rect width="314.977" height="65.13" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="313.977" height="64.13" rx="9.5" fill="none"/>
+    </g>
+    <text id="Análisis_del_producto" data-name="Análisis del producto" transform="translate(1096.391 1218.685)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-83.356" y="0">Análisis del producto</tspan></text>
+    <g id="Rectángulo_407809-16" data-name="Rectángulo 407809" transform="translate(938.979 708.685)" fill="#e5f8f8" stroke="#477a7a" stroke-width="1">
+      <rect width="314.977" height="65.13" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="313.977" height="64.13" rx="9.5" fill="none"/>
+    </g>
+    <text id="Comportamiento_de_la_demanda" data-name="Comportamiento de la demanda" transform="translate(1096.391 748.685)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-129.47" y="0">Comportamiento de la demanda</tspan></text>
+    <path id="Trazado_986631" data-name="Trazado 986631" d="M4812.665,835.25h28.323" transform="translate(-3902)" fill="none" stroke="#477a7a" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,7 +1,11 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(:subTitulo="'3. Objetivos, indicadores y resultados esperados'")
+  BannerInterno(:subTitulo="'3. Estudio de mercado'")
   .container.tarjeta.tarjeta--blanca.px-4.pt-4.px-md-5.pt-md-5.pb-0.overflow-hidden
+
+
+
+  
     
 </template>
 

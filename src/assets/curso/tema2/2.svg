@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="729.2" height="891" viewBox="0 0 729.2 891">
+  <defs>
+    <filter id="Rectángulo_407809" x="249.099" y="0" width="243.066" height="96" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1151694" data-name="Grupo 1151694" transform="translate(-428.901 -804)">
+    <path id="Trazado_985541" data-name="Trazado 985541" d="M3261.576,768.378h63.769V1000.07h-63.769" transform="translate(-2375.033 80.622)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <path id="Trazado_985542" data-name="Trazado 985542" d="M3163.533,781.536v281.573" transform="translate(-2363.033 99)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <g id="Grupo_1148886" data-name="Grupo 1148886" transform="translate(200.036 -3002.923)">
+      <g transform="matrix(1, 0, 0, 1, 228.87, 3806.92)" filter="url(#Rectángulo_407809)">
+        <rect id="Rectángulo_407809-2" data-name="Rectángulo 407809" width="225.066" height="78" rx="10" transform="translate(258.1 6)" fill="#fd7940"/>
+      </g>
+      <text id="El_entorno" data-name="El entorno" transform="translate(554.964 3858.622)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">El entorno</tspan></text>
+    </g>
+    <path id="Trazado_985544" data-name="Trazado 985544" d="M2916.467,1201.834v155.535" transform="translate(-2375.033 99)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <path id="Trazado_985545" data-name="Trazado 985545" d="M2916.467,1162.164v-61.109H3411.1v75.212" transform="translate(-2375.033 88.807)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <path id="Trazado_985546" data-name="Trazado 985546" d="M2916.467,1248.365H3411.1v-47.233" transform="translate(-2375.033 99)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <path id="Trazado_985547" data-name="Trazado 985547" d="M3021.918,1374.268h152.65" transform="translate(-2375.033 106.732)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <g id="Rectángulo_408085" data-name="Rectángulo 408085" transform="translate(687 918.535)" fill="#fed6c4" stroke="#fd7940" stroke-width="1">
+      <rect width="225.07" height="78" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="224.07" height="77" rx="9.5" fill="none"/>
+    </g>
+    <g id="Rectángulo_408086" data-name="Rectángulo 408086" transform="translate(693.358 1039)" fill="#fed6c4" stroke="#fd7940" stroke-width="1">
+      <rect width="225.07" height="78" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="224.07" height="77" rx="9.5" fill="none"/>
+    </g>
+    <g id="Rectángulo_408087" data-name="Rectángulo 408087" transform="translate(687 1151.188)" fill="#fed6c4" stroke="#fd7940" stroke-width="1">
+      <rect width="225.07" height="78" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="224.07" height="77" rx="9.5" fill="none"/>
+    </g>
+    <text id="Diagnóstico_y_análisis_sectorial" data-name="Diagnóstico y 
+análisis sectorial" transform="translate(799.901 949.535)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-56.512" y="0">Diagnóstico y </tspan><tspan x="-63.982" y="27">análisis sectorial</tspan></text>
+    <text id="Detección_de_necesidades" data-name="Detección de 
+necesidades" transform="translate(806.358 1071)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-54.582" y="0">Detección de </tspan><tspan x="-48.375" y="27">necesidades</tspan></text>
+    <text id="Planteamiento_del_problema" data-name="Planteamiento del 
+problema" transform="translate(800 1183.188)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-74.415" y="0">Planteamiento del </tspan><tspan x="-38.208" y="27">problema</tspan></text>
+    <g id="Rectángulo_408088" data-name="Rectángulo 408088" transform="translate(428.901 1242.594)" fill="#fed6c4" stroke="#fd7940" stroke-width="1">
+      <rect width="225.07" height="78" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="224.07" height="77" rx="9.5" fill="none"/>
+    </g>
+    <g id="Rectángulo_408089" data-name="Rectángulo 408089" transform="translate(933.031 1241.768)" fill="#fed6c4" stroke="#fd7940" stroke-width="1">
+      <rect width="225.07" height="78" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="224.07" height="77" rx="9.5" fill="none"/>
+    </g>
+    <text id="Restricciones" transform="translate(541.901 1287.268)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-51.4" y="0">Restricciones</tspan></text>
+    <text id="Determinación_de_objetivos" data-name="Determinación 
+de objetivos" transform="translate(1046.033 1273.594)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-60.687" y="0">Determinación </tspan><tspan x="-48.565" y="27">de objetivos</tspan></text>
+    <path id="Trazado_985543" data-name="Trazado 985543" d="M3163.533,781.536v273.249" transform="translate(-2363.033 565.829)" fill="none" stroke="#477a7a" stroke-width="1"/>
+    <rect id="Rectángulo_408090" data-name="Rectángulo 408090" width="225.07" height="78" rx="10" transform="translate(687 1374.942)" fill="#82e0e0"/>
+    <rect id="Rectángulo_408091" data-name="Rectángulo 408091" width="225.07" height="78" rx="10" transform="translate(687 1517)" fill="#82e0e0"/>
+    <rect id="Rectángulo_408092" data-name="Rectángulo 408092" width="225.07" height="78" rx="10" transform="translate(687 1617)" fill="#82e0e0"/>
+    <text id="Opciones_de_solución" data-name="Opciones de solución" transform="translate(799.535 1420.442)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-85.328" y="0">Opciones de solución</tspan></text>
+    <text id="Selección_de_la_opción_de_solución" data-name="Selección de la 
+opción de solución" transform="translate(799.535 1549)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-61.409" y="0">Selección de la </tspan><tspan x="-75.289" y="27">opción de solución</tspan></text>
+    <text id="Desarrollo_del_proyecto" data-name="Desarrollo del proyecto" transform="translate(799.535 1662.5)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-92.951" y="0">Desarrollo del proyecto</tspan></text>
+    <g id="Rectángulo_408093" data-name="Rectángulo 408093" transform="translate(429.366 1439)" fill="#d8f5f5" stroke="#477a7a" stroke-width="1">
+      <rect width="225.07" height="78" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="224.07" height="77" rx="9.5" fill="none"/>
+    </g>
+    <text id="Criterios_de_selección" data-name="Criterios de selección" transform="translate(541.901 1484.5)" fill="#212429" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="18" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-84.266" y="0">Criterios de selección</tspan></text>
+  </g>
+</svg>
