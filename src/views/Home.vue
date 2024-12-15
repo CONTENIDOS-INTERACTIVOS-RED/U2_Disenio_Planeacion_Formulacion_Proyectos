@@ -22,9 +22,9 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Esta unidad presenta una guía sobre el diseño, planeación y gestión de proyectos. Inicia con los datos generales del equipo de producción y responsables de contenido. La Unidad 1 desarrolla los fundamentos del diseño de proyectos, incluyendo su definición, tipos, ciclo de vida y principios de gestión. También aborda la identificación de necesidades, formulación de objetivos SMART, establecimiento de indicadores y resultados esperados. Se exploran metodologías como PMBOK, PRINCE2 y Scrum, además de recursos tecnológicos y bibliográficos actualizados que fortalecen las competencias en la gestión de proyectos.
+              p.descripcion.mb-4 La planeación estratégica de proyectos asegura la organización y supervisión eficaz de iniciativas mediante metodologías como el marco lógico, PMI y PRINCE2. Estas herramientas estructuran objetivos, actividades e indicadores, optimizando recursos y minimizando riesgos. El marco lógico se orienta a resultados, el PMI abarca áreas clave de gestión, y PRINCE2 destaca por su adaptabilidad y control. Complementado por análisis de mercado y gestión de recursos, este enfoque garantiza viabilidad y alineación con los objetivos organizacionales, maximizando el éxito en proyectos de diversos sectores y complejidades.
 
-              p.descripcion.mb-4.mb-lg-5.pb-lg-4.text-bold Cada proyecto es una oportunidad para transformar ideas en realidad y dejar un impacto positivo en el mundo.
+              p.descripcion.mb-4.mb-lg-5.pb-lg-4.text-bold Un proyecto bien planificado es el primer paso para convertir grandes ideas en realidades extraordinarias. 
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
