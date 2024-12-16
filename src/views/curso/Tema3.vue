@@ -21,10 +21,9 @@
             img(src='@/assets/curso/tema3/2.svg', alt='').mb-2
       figcaption.mt-3 #[strong Nota]. Basada Córdoba Padilla, M. (2011).  Elaboración propia (2024)
 
-    Separador 
 
-    .titulo-segundo(data-aos="flip-up")
-      h2#t_3_1 3.1 Descripción o presentación del producto o servicio
+    #t_3_1.titulo-segundo(data-aos="flip-up")
+      h2 #[span 3.1] Descripción o presentación del producto o servicio
 
     p(data-aos="fade-right") La descripción del producto o servicio en un plan de negocios o propuesta de proyecto es clave para transmitir su valor y singularidad. Este proceso detalla sus características, funcionalidades, beneficios y aspectos técnicos, destacando lo que lo diferencia en el mercado. Es esencial responder preguntas como:
 
@@ -49,12 +48,11 @@
             figure
               img(src="@/assets/curso/tema3/3.svg")
 
-    p(data-aos="fade-right") Además, la descripción debe incluir información sobre materiales, tecnologías empleadas, estándares de calidad y certificaciones. Una presentación completa y clara facilita el posicionamiento y aceptación del producto o servicio en el mercado.
+    p(data-aos="fade-right").mb-5 Además, la descripción debe incluir información sobre materiales, tecnologías empleadas, estándares de calidad y certificaciones. Una presentación completa y clara facilita el posicionamiento y aceptación del producto o servicio en el mercado.
 
-    Separador 
+    #t_3_2.titulo-segundo(data-aos="flip-up")
+      h2 #[span 3.2] Análisis de la demanda
 
-    .titulo-segundo(data-aos="flip-up")
-      h2#t_3_2 3.2 Análisis de la demanda
 
     p(data-aos="fade-right") El análisis de la demanda permite entender cuántos bienes los consumidores estarían dispuestos a adquirir a determinado precio. La demanda depende de varios factores, entre ellos:
 
@@ -96,12 +94,10 @@
                   h5 Competencia
                   p.mb-0 Grado de rivalidad entre empresas en el mismo mercado.
     
-    p(data-aos="fade-right") El equilibrio de mercado ocurre cuando la oferta y la demanda coinciden. Este balance permite determinar el precio adecuado del producto. Situaciones como un exceso de demanda frente a la oferta dan lugar a un "mercado de vendedores", mientras que lo contrario genera un "mercado de compradores".
+    p(data-aos="fade-right").mb-4 El equilibrio de mercado ocurre cuando la oferta y la demanda coinciden. Este balance permite determinar el precio adecuado del producto. Situaciones como un exceso de demanda frente a la oferta dan lugar a un "mercado de vendedores", mientras que lo contrario genera un "mercado de compradores".
 
-    Separador 
-
-    .titulo-segundo(data-aos="flip-up")
-      h2#t_3_3 3.3 Estudio de mercado
+    #t_3_3.titulo-segundo(data-aos="flip-up")
+      h2 #[span 3.3] Estudio de mercado
 
     p(data-aos="fade-right") Un estudio de mercado es una herramienta fundamental para entender la demanda y orientar un proyecto de manera estratégica. Permite obtener datos precisos sobre el público objetivo y el entorno competitivo, ayudando a evaluar la viabilidad económica del producto o servicio.
 
@@ -131,13 +127,11 @@
               p.fw-bold Causal
               p.mb-0 Busca identificar relaciones de causa y efecto entre variables.
 
-    p(data-aos="fade-right") El estudio de mercado es especialmente crucial para productos novedosos, donde las preferencias del consumidor son inciertas. Según Malhotra (2008), este proceso debe ser objetivo, sistemático y orientado a mejorar decisiones sobre problemas y oportunidades de marketing. Al aplicar este enfoque, se pueden establecer bases sólidas para el éxito comercial del proyecto.
+    p(data-aos="fade-right").mb-5 El estudio de mercado es especialmente crucial para productos novedosos, donde las preferencias del consumidor son inciertas. Según Malhotra (2008), este proceso debe ser objetivo, sistemático y orientado a mejorar decisiones sobre problemas y oportunidades de marketing. Al aplicar este enfoque, se pueden establecer bases sólidas para el éxito comercial del proyecto.
 
-    Separador 
+    #t_3_4.titulo-segundo(data-aos="flip-up")
+      h2 #[span 3.4] Análisis de la oferta
 
-    .titulo-segundo(data-aos="flip-up")
-      h2#t_3_4 3.4 Análisis de la oferta
-    
     .row.mb-5
       .col-lg-4.order-lg-2(data-aos="fade-left")
         figure
@@ -158,9 +152,9 @@
       .bg-color-3.p-4.p-xl-5.mt-4
         .col-lg-10.m-auto
           figure(data-aos="fade-up")
-            img(src='@/assets/curso/tema3/15.svg', alt='').mb-2
+            img(src='@/assets/curso/tema3/f4.svg', alt='').mb-2
 
-    p(data-aos="fade-right") La oferta está determinada por diversos factores clave que conforman el modelo de las cinco fuerzas de Porter, el cual ayuda a analizar la competitividad en el mercado. Aunque todas las fuerzas son importantes, la competencia ocupa el centro del análisis por su impacto directo en la posición y desempeño de las empresas. Las cinco fuerzas competitivas son:
+    p(data-aos="fade-right").my-4 La oferta está determinada por diversos factores clave que conforman el modelo de las cinco fuerzas de Porter, el cual ayuda a analizar la competitividad en el mercado. Aunque todas las fuerzas son importantes, la competencia ocupa el centro del análisis por su impacto directo en la posición y desempeño de las empresas. Las cinco fuerzas competitivas son:
 
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-md-5
@@ -219,12 +213,11 @@
 
     p(data-aos="fade-right") Conocer la estructura de mercado permite a las empresas anticiparse a cambios en la oferta y demanda, diseñar estrategias adecuadas y competir eficazmente en un entorno en constante transformación. Este análisis es crucial para tomar decisiones informadas y sostenibles.
 
-    Separador 
     
     .cont_3_1.pt-5
 
-      .titulo-segundo(data-aos="flip-up")
-        h2#t_3_5 3.5 Comercialización
+      #t_3_5.titulo-segundo(data-aos="flip-up")
+        h2 #[span 3.5] Comercialización
       
       p(data-aos="fade-right") La planificación para la comercialización de un producto o servicio requiere analizar diversos elementos clave, diseñando estrategias que permitan una entrada efectiva en el mercado y el logro de los objetivos comerciales. A continuación, se destacan las principales estrategias:
 
@@ -244,10 +237,9 @@
                       span Descargar
                       i.fas.fa-arrow-right
 
-    Separador
 
-    .titulo-segundo(data-aos="flip-up")
-      h2#t_3_6 3.6 Gestión de recursos 
+    #t_3_6.titulo-segundo(data-aos="flip-up")
+      h2 #[span 3.6] Gestión de recursos 
     
     p(data-aos="fade-right") La fase de identificación de recursos en un proyecto busca definir y organizar los elementos esenciales necesarios para su ejecución. A continuación, se detallan los principales tipos de recursos a considerar:
 
@@ -305,7 +297,70 @@
               .anexo__texto
                 p <strong>Anexo. </strong> Cronogramas y diagramas de Gantt
 
-    
+    .bg-full-width.border-top.color-primario
+      .p-4.p-md-5
+        h2 MATERIAL COMPLEMENTARIO
+        .row.material-complementario
+          .col-12.col-md-6.col-lg-7
+            p Los invitamos a explorar el material complementario de este curso, en esta sección encontrará recursos que le permitirán profundizar  y enriquecer su aprendizaje en los temas tratados en esta unidad.
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/116314" target="_blank" rel="noopener noreferrer") Cerezuela, B. & Ollé, C. (2018). Gestión de proyectos paso a paso: ( ed.). Editorial UOC.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/69169" target="_blank" rel="noopener noreferrer") Córdoba Padilla, M. (2011). Formulación y evaluación de proyectos: ( ed.). Ecoe Ediciones.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/250971" target="_blank" rel="noopener noreferrer") Malagón Bariñas, J. (2019). Modelos, metodologías y sistemas de gestión de proyectos: (1 ed.). Editorial Universidad EAN.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/116949" target="_blank" rel="noopener noreferrer") Rodríguez Aranday, F. (2018). Formulación y evaluación de proyectos de inversión: una propuesta metodológica: ( ed.). Instituto Mexicano de Contadores Públicos.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/ereader/tecnologicadeloriente/57720?page=10" target="_blank" rel="noopener noreferrer") Bataller, A. (2016). La gestión de proyectos: ( ed.). Editorial UOC.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/ereader/tecnologicadeloriente/39414?page=1" target="_blank" rel="noopener noreferrer") Torres Hernández, Z. (2014). Administración de proyectos: ( ed.). Grupo Editorial Patria.
+
+            p.d-flex.mb-2
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'20px'}")
+              a(href="https://youtu.be/K2yCrokrBv4?si=hX41jJiJ_sDKreHu" target="_blank" rel="noopener noreferrer") Colypro. (2022, 13 julio). ¿El marco lógico y su utilidad en la evaluación? [Video].
+
+            p.d-flex.mb-2
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'20px'}")
+              a(href="https://youtu.be/OAzL1YMOcnM?si=6SCDVXl8EnGmeMbK" target="_blank" rel="noopener noreferrer") Oscar Caita (23 de marzo 2023). ¿Cómo hacer un Estudio de Mercado? | Guía: Investigación de mercado en pocos pasos [Video].
+
+            p.d-flex.mb-2
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'20px'}")
+              a(href="https://youtu.be/lNiwncWOr4I?si=UyE51SaU5B0MCBql" target="_blank" rel="noopener noreferrer") Hashtag Capacitaciones (18 de septiembre de 2024). Cómo crear un diagrama de Gantt en Excel paso a paso [Video].
+
+            p.d-flex.mb-2
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'20px'}")
+              a(href="https://youtu.be/H3QMrOU9dT8?si=2cR1_ww8gal8G-a12" target="_blank" rel="noopener noreferrer") OpenWebinars (4 de octubre 2020) Curso de gestión de proyectos basados en PRINCE2 [Video].
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.opp.gub.uy/sites/default/files/documentos/2020-08/guia_snip_12.08.20.pdf" target="_blank" rel="noopener noreferrer") PNUD. (2015). Guía de formulación de proyectos. Programa de las Naciones Unidas para el Desarrollo.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.researchgate.net/publication/273103852_El_estudio_de_mercado_como_herramienta_de_gestion_empresarial" target="_blank" rel="noopener noreferrer") Díaz, A. (2014). El estudio de mercado como herramienta de gestión empresarial. Universidad de La Habana.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.ucipfg.com/Repositorio/MGTS/MGTS14/MGTSV-04/semana4/4Guia_Factibilidad_Proyectos_Ecoturisticos_CAPAS.pdf" target="_blank" rel="noopener noreferrer") Luna, R., & Chaves, D. (2001). Guía para elaborar estudios de factibilidad de proyectos ecoturísticos. PROARCA/CAPAS.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.redalyc.org/pdf/1939/193955500004.pdf" target="_blank" rel="noopener noreferrer") Oussouboure, G., & Delgado Victore, R. (2020). La asignación de recursos en la gestión de proyectos orientada a la metodología BIM. Revista de Arquitectura e Ingeniería, 10(1), 1-11. E-ISSN: 1990-8830.
+          .col-12.col-md-6.col-lg-3.offset-lg-1
+            figure
+              img(src='@/assets/componentes/material-complementario.svg', alt='')
 </template>
 
 <script>

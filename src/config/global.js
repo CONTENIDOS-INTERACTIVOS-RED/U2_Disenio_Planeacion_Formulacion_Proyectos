@@ -127,34 +127,8 @@ export default {
   },
   referencias: [
     {
-      referencia:
-        'Cerezuela, B., & Ollé, C. (2018). <em>Gestión de proyectos paso a paso</em> (Ed.). Editorial UOC.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/116314',
-    },
-    {
-      referencia:
-        'Córdoba Padilla, M. (2011). <em>Formulación y evaluación de proyectos</em> (Ed.). Ecoe Ediciones. ',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/69169',
-    },
-    {
-      referencia:
-        'Malagón Barinas, J. (2019). <em>Modelos, metodologías y sistemas de gestión de proyectos</em> (1ª ed.). Editorial Universidad EAN. ',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/250971',
-    },
-    {
-      referencia:
-        'Rodríguez Aranday, F. (2018). <em>Formulación y evaluación de proyectos de inversión: una propuesta metodológica</em> (Ed.). Instituto Mexicano de Contadores Públicos. ',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/116949',
-    },
-    {
-      referencia:
-        'Bataller, A. (2016). <em>La gestión de proyectos</em> (Ed.). Editorial UOC. ',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/57720?page=10',
-    },
-    {
-      referencia:
-        'Torres Hernández, Z. (2014). <em>Administración de proyectos</em> (Ed.). Grupo Editorial Patria. ',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/39414?page=6',
+      referencia: '',
+      link: '',
     },
   ],
   glosario: [

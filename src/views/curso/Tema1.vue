@@ -10,7 +10,7 @@
       .col-lg-7.order-lg-1
         p Las metodologías de planeación de proyectos son enfoques estructurados que guían la organización, ejecución y control de proyectos. Estas metodologías describen un paso a paso para planificar, definiendo objetivos, recursos, tiempos y actividades, lo que facilita el seguimiento y la ejecución del proyecto desde su inicio hasta su cierre. Cada metodología tiene principios y herramientas que ayudan a los equipos de trabajo a coordinarse, anticipar riesgos, y asegurar que los objetivos del proyecto se cumplan en tiempo y forma.
         .bg-color-1.p-4(data-aos="fade-left" style="background-color:#D7E7F8;").mb-4
-          .row.align-items-center
+          .row.align-items-start
             .col-lg-auto
               img(src="@/assets/curso/tema1/1.svg", style="max-width: 90px").mx-auto
             .col-lg
@@ -19,15 +19,14 @@
     .titulo-figura.mb-2(data-aos="fade-right")
       h5 Figura 1. 
       span Características de los proyectos. 
-    figure(data-aos="fade-up")
-      img(src='@/assets/curso/tema1/3.svg', alt='').mb-2
+
+    figure(data-aos="fade-up").mb-5
+      img(src='@/assets/curso/tema1/f1.png', alt='').mb-2
       figcaption #[strong Nota]. Basada Cerezuela, B. & Ollé, C. (2018). Gestión de proyectos paso a paso: ( ed.) 
 
-    Separador 
+    #t_1_1.titulo-segundo(data-aos="flip-up")
+      h2 #[span 1.1] Metodología del marco lógico
 
-    .titulo-segundo(data-aos="flip-up")
-      h2#t_1_1 1.1 Metodología del marco lógico
-    
     .cont_1_1
       p(data-aos="fade-right") ¿Sabía que una planificación deficiente es una de las causas principales del fracaso en los proyectos? ¿Cómo puede garantizar el éxito de su proyecto en lugar de verlo fracasar? El Sistema de Marco Lógico (SML) es una herramienta sumamente eficaz para la planificación de proyectos.
       p.fw-bold(data-aos="fade-left") Teniendo en cuenta a Córdoba Padilla, M. (2011). Las principales características del marco lógico son:
@@ -74,43 +73,40 @@
 
     .cont_1_2.mt-5
       .row
-        .col-lg-4.d-none.d-lg-block(data-aos="fade-right")
-          figure
-            img(src="@/assets/curso/tema1/10.png")
-        .col-lg-8(data-aos="zoom-in")
-          SlyderF(columnas="col-lg-6 col-xl-6 p-4 pt-0")
-            .custom-image-card-2
+        .col-lg-12(data-aos="zoom-in")
+          SlyderF(columnas="col-lg-6 col-xl-4 p-4 pt-0")
+            .custom-image-card
               img.custom-image-card__image.text-center(src="@/assets/curso/tema1/11.png" alt="")
               .custom-image-card__text.p-4
                 p.mb-0.text-center Proporcionar una terminología uniforme que facilita la comunicación y reduce la ambigüedad.
-            .custom-image-card-2
+            .custom-image-card
               img.custom-image-card__image.text-center(src="@/assets/curso/tema1/12.png" alt="")
               .custom-image-card__text.p-4
                 p.mb-0.text-center Ofrecer un formato para definir de manera precisa los objetivos, metas y riesgos del proyecto, que puede ser compartido entre financiadores, prestatarios y ejecutores.
-            .custom-image-card-2
+            .custom-image-card
               img.custom-image-card__image.text-center(src="@/assets/curso/tema1/13.png" alt="")
               .custom-image-card__text.p-4
                 p.mb-0.text-center Proporcionar un esquema analítico común que todos los involucrados pueden utilizar para el diseño y reporte del proyecto.
-            .custom-image-card-2
+            .custom-image-card
               img.custom-image-card__image.text-center(src="@/assets/curso/tema1/14.png" alt="")
               .custom-image-card__text.p-4
                 p.mb-0.text-center Centrar el trabajo técnico en aspectos críticos y reducir la extensión de documentos de proyecto.
-            .custom-image-card-2
+            .custom-image-card
               img.custom-image-card__image.text-center(src="@/assets/curso/tema1/15.png" alt="")
               .custom-image-card__text.p-4
                 p.mb-0.text-center Facilitar el monitoreo y evaluación del proyecto al suministrar la información necesaria.
-            .custom-image-card-2
+            .custom-image-card
               img.custom-image-card__image.text-center(src="@/assets/curso/tema1/16.png" alt="")
               .custom-image-card__text.p-4
                 p.mb-0.text-center Resumir en un solo cuadro la información clave del proyecto, mejorando su comprensión integral.
-            .custom-image-card-2
+            .custom-image-card
               img.custom-image-card__image.text-center(src="@/assets/curso/tema1/17.png" alt="")
               .custom-image-card__text.p-4
                 p.mb-0.text-center Organizar de manera lógica el plan de ejecución, facilitando la planificación y estructura del proyecto.
     
     p.mt-4(data-aos="fade-right") La matriz del marco lógico es una herramienta fundamental para planificar, ejecutar y evaluar proyectos de desarrollo. Este enfoque permite estructurar y visualizar de manera clara los objetivos, actividades, indicadores y supuestos necesarios para el éxito del proyecto.
 
-    TabsC.color-acento-contenido.mb-5.mt-4
+    TabsC.color-acento-contenido.mt-4
       .tabs-content.border.px-4.p-md-5.py-3(titulo="Objetivos" :icon="require('@/assets/curso/tema1/51.svg')" )
         .row
           .col-md-6.col-lg-5.col-xl-4.mb-4.mb-md-0
@@ -163,7 +159,7 @@
     h3 Diligenciamiento de la matriz del marco lógico
     p La matriz se organiza en cuatro columnas, cada una con un propósito específico que facilita la gestión y evaluación del proyecto:
 
-    .row.mt-4
+    .row.my-4
       .col-lg-6.col-md-6.mb-3(data-aos="zoom-in")
         .bg-color-1.p-4(style="background-color:#D8F5F5;border-radius:15px;box-shadow:0px 4px 8px rgba(0,0,0,.11);")
           .row.align-items-center
@@ -244,10 +240,9 @@
                       span Descargar
                       i.fas.fa-arrow-right
 
-      Separador 
 
-      .titulo-segundo(data-aos="flip-up")
-        h2#t_1_2 1.2 Metodología PMI
+    #t_1_2.titulo-segundo(data-aos="flip-up")
+      h2 #[span 1.2] Metodología PMI
     
       .row.align-items-center.mb-5
         .col-lg-8(data-aos="fade-right")
@@ -258,25 +253,25 @@
             img(src="@/assets/curso/tema1/29.png", alt="").mt-4.mt-lg-0
     
     .p-4.mb-5(style="background-color:#EAF2FB;")
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.my-5
         .col-lg-10
           ImagenInfografica.color-secundario
               template(v-slot:imagen)
                 figure
-                  img(src='@/assets/curso/tema1/30.svg', alt='', style="max-width: 887px;").mx-auto
-              .bg-color-6.p-3(x="19%" y="21%" numero="1")
+                  img(src='@/assets/curso/tema1/info1.png', alt='', style="max-width: 585px;").mx-auto
+              .bg-color-6.p-3(x="27.5%" y="20%" numero="5")
                 h5 Cierre
                 p Finalización formal del proyecto, evaluación de resultados y transferencia de entregables.
-              .bg-color-6.p-3(x="65%" y="21%" numero="2")
+              .bg-color-6.p-3(x="70%" y="21%" numero="1")
                 h5 Inicio
                 p Definición del proyecto y aprobación inicial.
-              .bg-color-6.p-3(x="72%" y="57%" numero="3")
+              .bg-color-6.p-3(x="82%" y="57%" numero="2")
                 h5 Planificación
                 p Diseño de un plan detallado que incluye los objetivos, alcance, cronograma y recursos necesarios.
-              .bg-color-6.p-3(x="8%" y="64%" numero="4")
+              .bg-color-6.p-3(x="20%" y="64%" numero="4")
                 h5 Monitoreo y Control
                 p Supervisión continua del avance del proyecto para asegurar que se mantenga dentro del alcance, el presupuesto y el tiempo establecidos.
-              .bg-color-6.p-3(x="41%" y="89%" numero="5")
+              .bg-color-6.p-3(x="43%" y="88%" numero="3")
                 h5 Ejecución
                 p Implementación del plan, desarrollo de entregables y administración de los recursos.
 
@@ -357,7 +352,7 @@
               figure
                 img(src="@/assets/curso/tema1/41.png")
 
-    p(data-aos="fade-up") Estas áreas funcionan de manera interrelacionada, asegurando que cada aspecto del proyecto se aborde de manera integral, lo que facilita su éxito desde la concepción hasta su culminación.
+    p(data-aos="fade-up").mb-5 Estas áreas funcionan de manera interrelacionada, asegurando que cada aspecto del proyecto se aborde de manera integral, lo que facilita su éxito desde la concepción hasta su culminación.
 
     .bg-full-width.bg-color-4.mb-lg-5
       .px-4.p-md-5
@@ -375,11 +370,8 @@
                 p <strong>Anexo. </strong> Metodologías ágiles y análisis de viabilidad
 
 
-    Separador
-
-    .titulo-segundo(data-aos="flip-up")
-      h2#t_1_3 1.3 PRINCE2
-
+    #t_1_3.titulo-segundo(data-aos="flip-up")
+      h2 #[span 1.3] PRINCE2
     .row.mb-5
       .col-lg-5.order-lg-2(data-aos="fade-left")
         figure
@@ -454,14 +446,77 @@
                 span 5
               span #[strong Ausencia de procesos de calidad:] asume que la organización ya cuenta con sistemas de calidad integrados.
     
-    .bg-color-1.p-4.mt-4(data-aos="fade-left" style="background-color:#FEF0EA;").mb-4
+    .bg-color-1.p-4.mt-4(data-aos="fade-left" style="background-color:#FEF0EA;").mb-5
       .row.align-items-center
         .col-lg-auto
           img(src="@/assets/curso/tema1/50.svg", style="max-width: 90px").mx-auto
         .col-lg
           p.mb-0 PRINCE2 es una herramienta poderosa para la gestión estructurada de proyectos, proporcionando claridad y control en todas las etapas del proceso, y asegurando que los proyectos sean viables y estén alineados con los objetivos estratégicos de la organización.
 
-    
+    .bg-full-width.border-top.color-primario
+      .p-4.p-md-5
+        h2 MATERIAL COMPLEMENTARIO
+        .row.material-complementario
+          .col-12.col-md-6.col-lg-7
+            p Los invitamos a explorar el material complementario de este curso, en esta sección encontrará recursos que le permitirán profundizar  y enriquecer su aprendizaje en los temas tratados en esta unidad.
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/116314" target="_blank" rel="noopener noreferrer") Cerezuela, B. & Ollé, C. (2018). Gestión de proyectos paso a paso: ( ed.). Editorial UOC.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/69169" target="_blank" rel="noopener noreferrer") Córdoba Padilla, M. (2011). Formulación y evaluación de proyectos: ( ed.). Ecoe Ediciones.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/250971" target="_blank" rel="noopener noreferrer") Malagón Bariñas, J. (2019). Modelos, metodologías y sistemas de gestión de proyectos: (1 ed.). Editorial Universidad EAN.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/116949" target="_blank" rel="noopener noreferrer") Rodríguez Aranday, F. (2018). Formulación y evaluación de proyectos de inversión: una propuesta metodológica: ( ed.). Instituto Mexicano de Contadores Públicos.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/ereader/tecnologicadeloriente/57720?page=10" target="_blank" rel="noopener noreferrer") Bataller, A. (2016). La gestión de proyectos: ( ed.). Editorial UOC.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/ereader/tecnologicadeloriente/39414?page=1" target="_blank" rel="noopener noreferrer") Torres Hernández, Z. (2014). Administración de proyectos: ( ed.). Grupo Editorial Patria.
+
+            p.d-flex.mb-2
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'20px'}")
+              a(href="https://youtu.be/K2yCrokrBv4?si=hX41jJiJ_sDKreHu" target="_blank" rel="noopener noreferrer") Colypro. (2022, 13 julio). ¿El marco lógico y su utilidad en la evaluación? [Video].
+
+            p.d-flex.mb-2
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'20px'}")
+              a(href="https://youtu.be/OAzL1YMOcnM?si=6SCDVXl8EnGmeMbK" target="_blank" rel="noopener noreferrer") Oscar Caita (23 de marzo 2023). ¿Cómo hacer un Estudio de Mercado? | Guía: Investigación de mercado en pocos pasos [Video].
+
+            p.d-flex.mb-2
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'20px'}")
+              a(href="https://youtu.be/lNiwncWOr4I?si=UyE51SaU5B0MCBql" target="_blank" rel="noopener noreferrer") Hashtag Capacitaciones (18 de septiembre de 2024). Cómo crear un diagrama de Gantt en Excel paso a paso [Video].
+
+            p.d-flex.mb-2
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'20px'}")
+              a(href="https://youtu.be/H3QMrOU9dT8?si=2cR1_ww8gal8G-a12" target="_blank" rel="noopener noreferrer") OpenWebinars (4 de octubre 2020) Curso de gestión de proyectos basados en PRINCE2 [Video].
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.opp.gub.uy/sites/default/files/documentos/2020-08/guia_snip_12.08.20.pdf" target="_blank" rel="noopener noreferrer") PNUD. (2015). Guía de formulación de proyectos. Programa de las Naciones Unidas para el Desarrollo.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.researchgate.net/publication/273103852_El_estudio_de_mercado_como_herramienta_de_gestion_empresarial" target="_blank" rel="noopener noreferrer") Díaz, A. (2014). El estudio de mercado como herramienta de gestión empresarial. Universidad de La Habana.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.ucipfg.com/Repositorio/MGTS/MGTS14/MGTSV-04/semana4/4Guia_Factibilidad_Proyectos_Ecoturisticos_CAPAS.pdf" target="_blank" rel="noopener noreferrer") Luna, R., & Chaves, D. (2001). Guía para elaborar estudios de factibilidad de proyectos ecoturísticos. PROARCA/CAPAS.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.redalyc.org/pdf/1939/193955500004.pdf" target="_blank" rel="noopener noreferrer") Oussouboure, G., & Delgado Victore, R. (2020). La asignación de recursos en la gestión de proyectos orientada a la metodología BIM. Revista de Arquitectura e Ingeniería, 10(1), 1-11. E-ISSN: 1990-8830.
+          .col-12.col-md-6.col-lg-3.offset-lg-1
+            figure
+              img(src='@/assets/componentes/material-complementario.svg', alt='')
 </template>
 
 <script>
