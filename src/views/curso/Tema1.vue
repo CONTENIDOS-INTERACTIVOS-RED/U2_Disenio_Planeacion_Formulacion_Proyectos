@@ -106,7 +106,7 @@
     
     p.mt-4(data-aos="fade-right") La matriz del marco lógico es una herramienta fundamental para planificar, ejecutar y evaluar proyectos de desarrollo. Este enfoque permite estructurar y visualizar de manera clara los objetivos, actividades, indicadores y supuestos necesarios para el éxito del proyecto.
 
-    TabsC.color-acento-contenido.mt-4
+    TabsC.color-acento-contenido.mt-4.mb-5
       .tabs-content.border.px-4.p-md-5.py-3(titulo="Objetivos" :icon="require('@/assets/curso/tema1/51.svg')" )
         .row
           .col-md-6.col-lg-5.col-xl-4.mb-4.mb-md-0
@@ -208,17 +208,17 @@
             th.text-center(style="background-color:#82E0E0 !important;") Supuestos
         tbody.text-center
           tr(style="background-color:#F3F3F3;")
-            td(style="background-color:#E5F8F8;") Fin: Mejorar la calidad de vida de la comunidad
+            td(style="background-color:#E5F8F8;") Fin: Mejorar la calidad de vida de la comunidad.
             td Capacitar a 100 personas en habilidades técnicas.
             td Número de personas capacitadas.
             td La comunidad está dispuesta a participar.
           tr(style="background-color:#fff;")
-            td(style="background-color:#E5F8F8;") Propósito: Incrementar la empleabilidad
+            td(style="background-color:#E5F8F8;") Propósito: Incrementar la empleabilidad.
             td Realizar talleres prácticos de empleo.
             td Porcentaje de personas empleadas.
             td Existen oportunidades laborales disponibles.
           tr(style="background-color:#F3F3F3;")
-            td(style="background-color:#E5F8F8;") Resultados: Habilidades adquiridas
+            td(style="background-color:#E5F8F8;") Resultados: Habilidades adquiridas.
             td Proveer materiales y recursos para talleres.
             td Evaluación de satisfacción del taller.
             td Los materiales llegan a tiempo.
@@ -229,7 +229,7 @@
           .bg-color-white.shadow-soft.py-4.px-lg-5
             .row.justify-content-around.align-items-center
               .col-md-auto
-                img(src="@/assets/template/bg-icono-pdf.svg", style="width: 90px;")
+                img(src="@/assets/template/video.svg", style="width: 90px;")
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
@@ -237,7 +237,7 @@
                     p Colypro. (2022, 13 julio). ¿El marco lógico y su utilidad en la evaluación?
                   .col-sm-auto
                     a.boton.color-acento-botones.texto-blanco(href="https://youtu.be/K2yCrokrBv4?si=hX41jJiJ_sDKreHu" target="_blank")
-                      span Descargar
+                      span Ver video
                       i.fas.fa-arrow-right
 
 
@@ -346,7 +346,7 @@
                 img(src="@/assets/curso/tema1/40.png")
           .row.align-items-center.p-4.p-md-5
             .col-lg-7.mb-4.mb-lg-0
-              h5 Gestión de stakeholders
+              h5 Gestión de <em>stakeholders</em>
               p Identifica a los interesados clave del proyecto y gestiona sus expectativas para garantizar su compromiso y alineación con los objetivos.
             .col-lg-5.col-md-8.m-auto
               figure
@@ -362,7 +362,7 @@
               img(src='@/assets/curso/tema1/42.png', alt='')
           .col-lg-7
             h2.mb-4(data-aos="flip-up") Metodologías ágiles y análisis de viabilidad
-            p.mb-4(data-aos="fade-right") En el documento Metodologías ágiles y análisis de viabilidad , se presentan enfoques como Scrum, Kanban y Lean, junto con las etapas clave para evaluar proyectos en aspectos técnicos, legales, administrativos y ambientales. Se invita a utilizar estas herramientas para mejorar la planificación y sostenibilidad de los proyectos. ¡Descubre cómo pueden transformar tu gestión!
+            p.mb-4(data-aos="fade-right") En el documento Metodologías ágiles y análisis de viabilidad, se presentan enfoques como Scrum, Kanban y Lean, junto con las etapas clave para evaluar proyectos en aspectos técnicos, legales, administrativos y ambientales. Se invita a utilizar estas herramientas para mejorar la planificación y sostenibilidad de los proyectos. ¡Descubre cómo pueden transformar tu gestión!
             a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")

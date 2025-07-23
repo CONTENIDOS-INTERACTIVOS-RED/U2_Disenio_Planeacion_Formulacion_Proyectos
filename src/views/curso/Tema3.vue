@@ -234,7 +234,7 @@
                     p Para conocer a fondo como se realiza un estudio de mercado, los invito a ver el siguiente video. 
                   .col-sm-auto
                     a.boton.color-acento-botones.texto-blanco(href="https://youtu.be/OAzL1YMOcnM?si=6SCDVXl8EnGmeMbK" target="_blank")
-                      span Descargar
+                      span Ver video
                       i.fas.fa-arrow-right
 
 
@@ -291,12 +291,18 @@
           .col-lg-7
             h2.mb-4(data-aos="flip-up") Cronogramas y diagramas de Gantt
             p.mb-4(data-aos="fade-right") Se describen los beneficios y herramientas para organizar proyectos, destacando el uso del diagrama de Gantt. Este recurso visual permite planificar, asignar recursos, controlar avances y ajustar tareas en tiempo real, asegurando una gestión eficiente y el cumplimiento de plazos. 
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
                 p <strong>Anexo. </strong> Cronogramas y diagramas de Gantt
 
+
+    .bg-full-width.border-top.actividad.bg-color-actividad.mb-0
+      .p-4.p-md-5
+        #Actividad                
+          <Actividad :cuestionario="cuestionario"/>
+          
     .bg-full-width.border-top.color-primario
       .p-4.p-md-5
         h2 MATERIAL COMPLEMENTARIO
@@ -364,11 +370,135 @@
 </template>
 
 <script>
-import BannerInterno from '../../components/plantilla/BannerInterno'
+import Actividad from '@/components/actividad/Actividad.vue'
 export default {
   name: 'Tema3',
   components: {
-    BannerInterno,
+    Actividad,
+  },
+  data() {
+    return {
+      cuestionario: {
+        tema: 'Pensamiento estratégico y prospectivo',
+        titulo: 'Ponte a prueba',
+        introduccion:
+          'Demuestra lo que aprendiste en esta unidad y pon a prueba tus conocimientos.',
+        barajarPreguntas: true,
+        preguntas: [
+          {
+            id: 1,
+            texto:
+              '¿Qué metodología está especialmente enfocada en estructurar el proceso de planificación a través de una matriz?',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              { id: 'a', texto: 'prince2', esCorrecta: false },
+              { id: 'b', texto: 'Metodología ágil', esCorrecta: false },
+              { id: 'c', texto: 'Sistema de Marco Lógico', esCorrecta: true },
+              {
+                id: 'd',
+                texto: 'Lean Software Development',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto:
+              '¡Correcto! El Sistema de Marco Lógico es la metodología enfocada en estructurar el proceso de planificación a través de una matriz.',
+            mensaje_incorrecto:
+              'Incorrecto. Revisa las metodologías y su enfoque en la planificación de proyectos.',
+          },
+          {
+            id: 2,
+            texto:
+              "En el Sistema de Marco Lógico, ¿qué se identifica en la columna de 'supuestos'?",
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              { id: 'a', texto: 'Actividades a realizar', esCorrecta: false },
+              {
+                id: 'b',
+                texto: 'Factores externos que pueden influir en el proyecto',
+                esCorrecta: true,
+              },
+              {
+                id: 'c',
+                texto: 'Indicadores de rendimiento',
+                esCorrecta: false,
+              },
+              {
+                id: 'd',
+                texto: 'Objetivos específicos del proyecto',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto:
+              '¡Correcto! En la columna de supuestos se identifican los factores externos que pueden influir en el proyecto.',
+            mensaje_incorrecto:
+              'Incorrecto. Revisa el significado de la columna de supuestos en el Sistema de Marco Lógico.',
+          },
+          {
+            id: 3,
+            texto:
+              '¿Qué institución desarrolló el Sistema de Marco Lógico en los años sesenta?',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              {
+                id: 'a',
+                texto: 'Project Management Institute',
+                esCorrecta: false,
+              },
+              { id: 'b', texto: 'prince2', esCorrecta: false },
+              { id: 'c', texto: 'usaid', esCorrecta: true },
+              { id: 'd', texto: 'Lean Institute', esCorrecta: false },
+            ],
+            mensaje_correcto:
+              '¡Correcto! La institución que desarrolló el Sistema de Marco Lógico en los años sesenta fue USAID.',
+            mensaje_incorrecto:
+              'Incorrecto. Revisa la historia del Sistema de Marco Lógico.',
+          },
+          {
+            id: 4,
+            texto:
+              '¿Cuál de las siguientes áreas no está contemplada en la metodología PRINCE2?',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              { id: 'a', texto: 'Gestión de la calidad', esCorrecta: true },
+              { id: 'b', texto: 'Control de la etapa', esCorrecta: false },
+              { id: 'c', texto: 'Inicio del proyecto', esCorrecta: false },
+              {
+                id: 'd',
+                texto: 'Gestión de la entrega de productos',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto:
+              '¡Correcto! La gestión de la calidad no está contemplada como área en la metodología PRINCE2.',
+            mensaje_incorrecto:
+              'Incorrecto. Revisa las áreas contempladas en PRINCE2.',
+          },
+          {
+            id: 5,
+            texto:
+              'En la reducción de costos se solicita implementar una metodología ágil que elimine lo que no aporte valor al cliente y decides aplicar el Lean Software Development en lugar del Scrum. ¿Esta sería la metodología más adecuada?',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              { id: 'a', texto: 'Falso', esCorrecta: false },
+              { id: 'b', texto: 'Verdadero', esCorrecta: true },
+            ],
+            mensaje_correcto:
+              '¡Correcto! Lean Software Development es adecuado para eliminar desperdicios y reducir costos.',
+            mensaje_incorrecto:
+              'Incorrecto. Revisa las características de Lean Software Development y Scrum.',
+          },
+        ],
+        mensaje_final_aprobado:
+          '¡Felicidades! Has superado la prueba con éxito.',
+        mensaje_final_reprobado:
+          'Te recomendamos repasar nuevamente la unidad para reforzar los conceptos clave antes de volver a intentarlo.',
+      },
+    }
   },
   mounted() {
     this.$nextTick(() => {
@@ -379,7 +509,6 @@ export default {
 </script>
 
 <style lang="sass">
-.material-complementario
-  padding-top: 3rem
-  border-top: 9px solid $color-sistema-e
+.bg-color-actividad
+  background-color: #EBF1F5
 </style>
